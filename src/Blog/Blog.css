@@ -1,0 +1,10 @@
+.Blog {
+    background-color: var(--backgrond-color);
+    height: 1000vh;
+ 
+
+}
+
+.Blog__Page {
+    padding: 10px 5%;
+}

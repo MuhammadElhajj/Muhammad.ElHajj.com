@@ -12,8 +12,8 @@ function App() {
    <Header />
    <ControlPanel/>
    <Home/>
-   <About/>
-   <Contact/>
+   {/* <About/> */}
+   {/* <Contact/> */}
     </div>
   );
 }
